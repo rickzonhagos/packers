@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" "4.3.0"
+github "CocoaLumberjack/CocoaLumberjack" "3.0.0"
+github "sascha/DrawerController" "3.1.0"
+github "jdg/MBProgressHUD" "1.0.0"
+github "SwiftyJSON/SwiftyJSON" "3.1.4"
