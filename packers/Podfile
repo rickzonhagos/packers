@@ -1,0 +1,29 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+
+target 'packers' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for packers
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+pod 'CocoaLumberjack', '~> 3.0'
+pod 'SwiftyJSON', '~> 3.1'
+pod 'Alamofire', '~> 4.3'
+pod 'FacebookCore', '~> 0.2'
+pod 'DrawerController', '~> 3.1'
+pod 'MBProgressHUD', '~> 1.0'
+pod 'KeychainSwift', '~> 7.0'
+
+  target 'packersTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'packersUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

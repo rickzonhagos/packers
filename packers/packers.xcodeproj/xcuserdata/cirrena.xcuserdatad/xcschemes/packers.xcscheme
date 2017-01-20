@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "953D290B1E31E7AD004E48DB"
+               BlueprintIdentifier = "953D31CA1E320CF6004E48DB"
                BuildableName = "packers.app"
                BlueprintName = "packers"
                ReferencedContainer = "container:packers.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "953D29221E31E7B1004E48DB"
+               BlueprintIdentifier = "953D31E11E320CF6004E48DB"
                BuildableName = "packersTests.xctest"
                BlueprintName = "packersTests"
                ReferencedContainer = "container:packers.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "953D292D1E31E7B1004E48DB"
+               BlueprintIdentifier = "953D31EC1E320CF6004E48DB"
                BuildableName = "packersUITests.xctest"
                BlueprintName = "packersUITests"
                ReferencedContainer = "container:packers.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "953D290B1E31E7AD004E48DB"
+            BlueprintIdentifier = "953D31CA1E320CF6004E48DB"
             BuildableName = "packers.app"
             BlueprintName = "packers"
             ReferencedContainer = "container:packers.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "953D290B1E31E7AD004E48DB"
+            BlueprintIdentifier = "953D31CA1E320CF6004E48DB"
             BuildableName = "packers.app"
             BlueprintName = "packers"
             ReferencedContainer = "container:packers.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "953D290B1E31E7AD004E48DB"
+            BlueprintIdentifier = "953D31CA1E320CF6004E48DB"
             BuildableName = "packers.app"
             BlueprintName = "packers"
             ReferencedContainer = "container:packers.xcodeproj">

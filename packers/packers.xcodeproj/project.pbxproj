@@ -7,94 +7,68 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		953D29101E31E7AD004E48DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953D290F1E31E7AD004E48DB /* AppDelegate.swift */; };
-		953D29121E31E7AD004E48DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953D29111E31E7AD004E48DB /* ViewController.swift */; };
-		953D29151E31E7AD004E48DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 953D29131E31E7AD004E48DB /* Main.storyboard */; };
-		953D29181E31E7AD004E48DB /* packers.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 953D29161E31E7AD004E48DB /* packers.xcdatamodeld */; };
-		953D291A1E31E7AE004E48DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 953D29191E31E7AE004E48DB /* Assets.xcassets */; };
-		953D291D1E31E7AE004E48DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 953D291B1E31E7AE004E48DB /* LaunchScreen.storyboard */; };
-		953D29281E31E7B1004E48DB /* packersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953D29271E31E7B1004E48DB /* packersTests.swift */; };
-		953D29331E31E7B1004E48DB /* packersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953D29321E31E7B1004E48DB /* packersUITests.swift */; };
-		953D29411E31EA23004E48DB /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = 953D29401E31EA23004E48DB /* Cartfile */; };
-		953D2DF11E31F5BE004E48DB /* Cartfile.resolved in Resources */ = {isa = PBXBuildFile; fileRef = 953D29421E31F5BA004E48DB /* Cartfile.resolved */; };
-		953D31BA1E320140004E48DB /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 953D31B41E320140004E48DB /* Alamofire.framework */; };
-		953D31BB1E320140004E48DB /* CocoaLumberjack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 953D31B51E320140004E48DB /* CocoaLumberjack.framework */; };
-		953D31BC1E320140004E48DB /* CocoaLumberjackSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 953D31B61E320140004E48DB /* CocoaLumberjackSwift.framework */; };
-		953D31BD1E320140004E48DB /* DrawerController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 953D31B71E320140004E48DB /* DrawerController.framework */; };
-		953D31BE1E320140004E48DB /* MBProgressHUD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 953D31B81E320140004E48DB /* MBProgressHUD.framework */; };
-		953D31BF1E320140004E48DB /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 953D31B91E320140004E48DB /* SwiftyJSON.framework */; };
+		953D31CF1E320CF6004E48DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953D31CE1E320CF6004E48DB /* AppDelegate.swift */; };
+		953D31D11E320CF6004E48DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953D31D01E320CF6004E48DB /* ViewController.swift */; };
+		953D31D41E320CF6004E48DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 953D31D21E320CF6004E48DB /* Main.storyboard */; };
+		953D31D71E320CF6004E48DB /* packers.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 953D31D51E320CF6004E48DB /* packers.xcdatamodeld */; };
+		953D31D91E320CF6004E48DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 953D31D81E320CF6004E48DB /* Assets.xcassets */; };
+		953D31DC1E320CF6004E48DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 953D31DA1E320CF6004E48DB /* LaunchScreen.storyboard */; };
+		953D31E71E320CF6004E48DB /* packersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953D31E61E320CF6004E48DB /* packersTests.swift */; };
+		953D31F21E320CF6004E48DB /* packersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953D31F11E320CF6004E48DB /* packersUITests.swift */; };
+		953D32001E320D51004E48DB /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 953D31FF1E320D51004E48DB /* Podfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		953D29241E31E7B1004E48DB /* PBXContainerItemProxy */ = {
+		953D31E31E320CF6004E48DB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 953D29041E31E7AC004E48DB /* Project object */;
+			containerPortal = 953D31C31E320CF6004E48DB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 953D290B1E31E7AD004E48DB;
+			remoteGlobalIDString = 953D31CA1E320CF6004E48DB;
 			remoteInfo = packers;
 		};
-		953D292F1E31E7B1004E48DB /* PBXContainerItemProxy */ = {
+		953D31EE1E320CF6004E48DB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 953D29041E31E7AC004E48DB /* Project object */;
+			containerPortal = 953D31C31E320CF6004E48DB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 953D290B1E31E7AD004E48DB;
+			remoteGlobalIDString = 953D31CA1E320CF6004E48DB;
 			remoteInfo = packers;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		953D290C1E31E7AD004E48DB /* packers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = packers.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		953D290F1E31E7AD004E48DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		953D29111E31E7AD004E48DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		953D29141E31E7AD004E48DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		953D29171E31E7AD004E48DB /* packers.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = packers.xcdatamodel; sourceTree = "<group>"; };
-		953D29191E31E7AE004E48DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		953D291C1E31E7AE004E48DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		953D291E1E31E7AE004E48DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		953D29231E31E7B1004E48DB /* packersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = packersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		953D29271E31E7B1004E48DB /* packersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = packersTests.swift; sourceTree = "<group>"; };
-		953D29291E31E7B1004E48DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		953D292E1E31E7B1004E48DB /* packersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = packersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		953D29321E31E7B1004E48DB /* packersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = packersUITests.swift; sourceTree = "<group>"; };
-		953D29341E31E7B1004E48DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		953D29401E31EA23004E48DB /* Cartfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
-		953D29421E31F5BA004E48DB /* Cartfile.resolved */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cartfile.resolved; sourceTree = "<group>"; };
-		953D31A71E31FC33004E48DB /* Alamofire.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = Alamofire.framework.dSYM; path = Carthage/Build/iOS/Alamofire.framework.dSYM; sourceTree = "<group>"; };
-		953D31A81E31FC33004E48DB /* CocoaLumberjack.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = CocoaLumberjack.framework.dSYM; path = Carthage/Build/iOS/CocoaLumberjack.framework.dSYM; sourceTree = "<group>"; };
-		953D31A91E31FC33004E48DB /* MBProgressHUD.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = MBProgressHUD.framework.dSYM; path = Carthage/Build/iOS/MBProgressHUD.framework.dSYM; sourceTree = "<group>"; };
-		953D31AA1E31FC33004E48DB /* SwiftyJSON.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = SwiftyJSON.framework.dSYM; path = Carthage/Build/iOS/SwiftyJSON.framework.dSYM; sourceTree = "<group>"; };
-		953D31AB1E31FC33004E48DB /* DrawerController.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = DrawerController.framework.dSYM; path = Carthage/Build/iOS/DrawerController.framework.dSYM; sourceTree = "<group>"; };
-		953D31AC1E31FC33004E48DB /* CocoaLumberjackSwift.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = CocoaLumberjackSwift.framework.dSYM; path = Carthage/Build/iOS/CocoaLumberjackSwift.framework.dSYM; sourceTree = "<group>"; };
-		953D31B41E320140004E48DB /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
-		953D31B51E320140004E48DB /* CocoaLumberjack.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CocoaLumberjack.framework; path = Carthage/Build/iOS/CocoaLumberjack.framework; sourceTree = "<group>"; };
-		953D31B61E320140004E48DB /* CocoaLumberjackSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CocoaLumberjackSwift.framework; path = Carthage/Build/iOS/CocoaLumberjackSwift.framework; sourceTree = "<group>"; };
-		953D31B71E320140004E48DB /* DrawerController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DrawerController.framework; path = Carthage/Build/iOS/DrawerController.framework; sourceTree = "<group>"; };
-		953D31B81E320140004E48DB /* MBProgressHUD.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MBProgressHUD.framework; path = Carthage/Build/iOS/MBProgressHUD.framework; sourceTree = "<group>"; };
-		953D31B91E320140004E48DB /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = Carthage/Build/iOS/SwiftyJSON.framework; sourceTree = "<group>"; };
+		953D31CB1E320CF6004E48DB /* packers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = packers.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		953D31CE1E320CF6004E48DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		953D31D01E320CF6004E48DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		953D31D31E320CF6004E48DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		953D31D61E320CF6004E48DB /* packers.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = packers.xcdatamodel; sourceTree = "<group>"; };
+		953D31D81E320CF6004E48DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		953D31DB1E320CF6004E48DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		953D31DD1E320CF6004E48DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		953D31E21E320CF6004E48DB /* packersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = packersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		953D31E61E320CF6004E48DB /* packersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = packersTests.swift; sourceTree = "<group>"; };
+		953D31E81E320CF6004E48DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		953D31ED1E320CF6004E48DB /* packersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = packersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		953D31F11E320CF6004E48DB /* packersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = packersUITests.swift; sourceTree = "<group>"; };
+		953D31F31E320CF6004E48DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		953D31FF1E320D51004E48DB /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		953D29091E31E7AD004E48DB /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				953D31BA1E320140004E48DB /* Alamofire.framework in Frameworks */,
-				953D31BB1E320140004E48DB /* CocoaLumberjack.framework in Frameworks */,
-				953D31BC1E320140004E48DB /* CocoaLumberjackSwift.framework in Frameworks */,
-				953D31BD1E320140004E48DB /* DrawerController.framework in Frameworks */,
-				953D31BE1E320140004E48DB /* MBProgressHUD.framework in Frameworks */,
-				953D31BF1E320140004E48DB /* SwiftyJSON.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		953D29201E31E7B1004E48DB /* Frameworks */ = {
+		953D31C81E320CF6004E48DB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		953D292B1E31E7B1004E48DB /* Frameworks */ = {
+		953D31DF1E320CF6004E48DB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		953D31EA1E320CF6004E48DB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -104,91 +78,69 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		953D29031E31E7AC004E48DB = {
+		953D31C21E320CF6004E48DB = {
 			isa = PBXGroup;
 			children = (
-				953D29401E31EA23004E48DB /* Cartfile */,
-				953D290E1E31E7AD004E48DB /* packers */,
-				953D29261E31E7B1004E48DB /* packersTests */,
-				953D29311E31E7B1004E48DB /* packersUITests */,
-				953D290D1E31E7AD004E48DB /* Products */,
-				953D31A61E31FC33004E48DB /* Frameworks */,
+				953D31FF1E320D51004E48DB /* Podfile */,
+				953D31CD1E320CF6004E48DB /* packers */,
+				953D31E51E320CF6004E48DB /* packersTests */,
+				953D31F01E320CF6004E48DB /* packersUITests */,
+				953D31CC1E320CF6004E48DB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		953D290D1E31E7AD004E48DB /* Products */ = {
+		953D31CC1E320CF6004E48DB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				953D290C1E31E7AD004E48DB /* packers.app */,
-				953D29231E31E7B1004E48DB /* packersTests.xctest */,
-				953D292E1E31E7B1004E48DB /* packersUITests.xctest */,
+				953D31CB1E320CF6004E48DB /* packers.app */,
+				953D31E21E320CF6004E48DB /* packersTests.xctest */,
+				953D31ED1E320CF6004E48DB /* packersUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		953D290E1E31E7AD004E48DB /* packers */ = {
+		953D31CD1E320CF6004E48DB /* packers */ = {
 			isa = PBXGroup;
 			children = (
-				953D29421E31F5BA004E48DB /* Cartfile.resolved */,
-				953D290F1E31E7AD004E48DB /* AppDelegate.swift */,
-				953D29111E31E7AD004E48DB /* ViewController.swift */,
-				953D29131E31E7AD004E48DB /* Main.storyboard */,
-				953D29191E31E7AE004E48DB /* Assets.xcassets */,
-				953D291B1E31E7AE004E48DB /* LaunchScreen.storyboard */,
-				953D291E1E31E7AE004E48DB /* Info.plist */,
-				953D29161E31E7AD004E48DB /* packers.xcdatamodeld */,
+				953D31CE1E320CF6004E48DB /* AppDelegate.swift */,
+				953D31D01E320CF6004E48DB /* ViewController.swift */,
+				953D31D21E320CF6004E48DB /* Main.storyboard */,
+				953D31D81E320CF6004E48DB /* Assets.xcassets */,
+				953D31DA1E320CF6004E48DB /* LaunchScreen.storyboard */,
+				953D31DD1E320CF6004E48DB /* Info.plist */,
+				953D31D51E320CF6004E48DB /* packers.xcdatamodeld */,
 			);
 			path = packers;
 			sourceTree = "<group>";
 		};
-		953D29261E31E7B1004E48DB /* packersTests */ = {
+		953D31E51E320CF6004E48DB /* packersTests */ = {
 			isa = PBXGroup;
 			children = (
-				953D29271E31E7B1004E48DB /* packersTests.swift */,
-				953D29291E31E7B1004E48DB /* Info.plist */,
+				953D31E61E320CF6004E48DB /* packersTests.swift */,
+				953D31E81E320CF6004E48DB /* Info.plist */,
 			);
 			path = packersTests;
 			sourceTree = "<group>";
 		};
-		953D29311E31E7B1004E48DB /* packersUITests */ = {
+		953D31F01E320CF6004E48DB /* packersUITests */ = {
 			isa = PBXGroup;
 			children = (
-				953D29321E31E7B1004E48DB /* packersUITests.swift */,
-				953D29341E31E7B1004E48DB /* Info.plist */,
+				953D31F11E320CF6004E48DB /* packersUITests.swift */,
+				953D31F31E320CF6004E48DB /* Info.plist */,
 			);
 			path = packersUITests;
-			sourceTree = "<group>";
-		};
-		953D31A61E31FC33004E48DB /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				953D31B41E320140004E48DB /* Alamofire.framework */,
-				953D31B51E320140004E48DB /* CocoaLumberjack.framework */,
-				953D31B61E320140004E48DB /* CocoaLumberjackSwift.framework */,
-				953D31B71E320140004E48DB /* DrawerController.framework */,
-				953D31B81E320140004E48DB /* MBProgressHUD.framework */,
-				953D31B91E320140004E48DB /* SwiftyJSON.framework */,
-				953D31A71E31FC33004E48DB /* Alamofire.framework.dSYM */,
-				953D31A81E31FC33004E48DB /* CocoaLumberjack.framework.dSYM */,
-				953D31A91E31FC33004E48DB /* MBProgressHUD.framework.dSYM */,
-				953D31AA1E31FC33004E48DB /* SwiftyJSON.framework.dSYM */,
-				953D31AB1E31FC33004E48DB /* DrawerController.framework.dSYM */,
-				953D31AC1E31FC33004E48DB /* CocoaLumberjackSwift.framework.dSYM */,
-			);
-			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		953D290B1E31E7AD004E48DB /* packers */ = {
+		953D31CA1E320CF6004E48DB /* packers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 953D29371E31E7B1004E48DB /* Build configuration list for PBXNativeTarget "packers" */;
+			buildConfigurationList = 953D31F61E320CF6004E48DB /* Build configuration list for PBXNativeTarget "packers" */;
 			buildPhases = (
-				953D29081E31E7AD004E48DB /* Sources */,
-				953D29091E31E7AD004E48DB /* Frameworks */,
-				953D290A1E31E7AD004E48DB /* Resources */,
-				953D31B31E31FC7E004E48DB /* ShellScript */,
+				953D31C71E320CF6004E48DB /* Sources */,
+				953D31C81E320CF6004E48DB /* Frameworks */,
+				953D31C91E320CF6004E48DB /* Resources */,
 			);
 			buildRules = (
 			);
@@ -196,116 +148,114 @@
 			);
 			name = packers;
 			productName = packers;
-			productReference = 953D290C1E31E7AD004E48DB /* packers.app */;
+			productReference = 953D31CB1E320CF6004E48DB /* packers.app */;
 			productType = "com.apple.product-type.application";
 		};
-		953D29221E31E7B1004E48DB /* packersTests */ = {
+		953D31E11E320CF6004E48DB /* packersTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 953D293A1E31E7B1004E48DB /* Build configuration list for PBXNativeTarget "packersTests" */;
+			buildConfigurationList = 953D31F91E320CF6004E48DB /* Build configuration list for PBXNativeTarget "packersTests" */;
 			buildPhases = (
-				953D291F1E31E7B1004E48DB /* Sources */,
-				953D29201E31E7B1004E48DB /* Frameworks */,
-				953D29211E31E7B1004E48DB /* Resources */,
+				953D31DE1E320CF6004E48DB /* Sources */,
+				953D31DF1E320CF6004E48DB /* Frameworks */,
+				953D31E01E320CF6004E48DB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				953D29251E31E7B1004E48DB /* PBXTargetDependency */,
+				953D31E41E320CF6004E48DB /* PBXTargetDependency */,
 			);
 			name = packersTests;
 			productName = packersTests;
-			productReference = 953D29231E31E7B1004E48DB /* packersTests.xctest */;
+			productReference = 953D31E21E320CF6004E48DB /* packersTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		953D292D1E31E7B1004E48DB /* packersUITests */ = {
+		953D31EC1E320CF6004E48DB /* packersUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 953D293D1E31E7B1004E48DB /* Build configuration list for PBXNativeTarget "packersUITests" */;
+			buildConfigurationList = 953D31FC1E320CF6004E48DB /* Build configuration list for PBXNativeTarget "packersUITests" */;
 			buildPhases = (
-				953D292A1E31E7B1004E48DB /* Sources */,
-				953D292B1E31E7B1004E48DB /* Frameworks */,
-				953D292C1E31E7B1004E48DB /* Resources */,
+				953D31E91E320CF6004E48DB /* Sources */,
+				953D31EA1E320CF6004E48DB /* Frameworks */,
+				953D31EB1E320CF6004E48DB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				953D29301E31E7B1004E48DB /* PBXTargetDependency */,
+				953D31EF1E320CF6004E48DB /* PBXTargetDependency */,
 			);
 			name = packersUITests;
 			productName = packersUITests;
-			productReference = 953D292E1E31E7B1004E48DB /* packersUITests.xctest */;
+			productReference = 953D31ED1E320CF6004E48DB /* packersUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		953D29041E31E7AC004E48DB /* Project object */ = {
+		953D31C31E320CF6004E48DB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Rickzon Hagos";
 				TargetAttributes = {
-					953D290B1E31E7AD004E48DB = {
+					953D31CA1E320CF6004E48DB = {
 						CreatedOnToolsVersion = 8.2;
 						DevelopmentTeam = NW33Q88LU3;
 						ProvisioningStyle = Automatic;
 					};
-					953D29221E31E7B1004E48DB = {
+					953D31E11E320CF6004E48DB = {
 						CreatedOnToolsVersion = 8.2;
 						DevelopmentTeam = NW33Q88LU3;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 953D290B1E31E7AD004E48DB;
+						TestTargetID = 953D31CA1E320CF6004E48DB;
 					};
-					953D292D1E31E7B1004E48DB = {
+					953D31EC1E320CF6004E48DB = {
 						CreatedOnToolsVersion = 8.2;
 						DevelopmentTeam = NW33Q88LU3;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 953D290B1E31E7AD004E48DB;
+						TestTargetID = 953D31CA1E320CF6004E48DB;
 					};
 				};
 			};
-			buildConfigurationList = 953D29071E31E7AC004E48DB /* Build configuration list for PBXProject "packers" */;
+			buildConfigurationList = 953D31C61E320CF6004E48DB /* Build configuration list for PBXProject "packers" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
-				English,
 			);
-			mainGroup = 953D29031E31E7AC004E48DB;
-			productRefGroup = 953D290D1E31E7AD004E48DB /* Products */;
+			mainGroup = 953D31C21E320CF6004E48DB;
+			productRefGroup = 953D31CC1E320CF6004E48DB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				953D290B1E31E7AD004E48DB /* packers */,
-				953D29221E31E7B1004E48DB /* packersTests */,
-				953D292D1E31E7B1004E48DB /* packersUITests */,
+				953D31CA1E320CF6004E48DB /* packers */,
+				953D31E11E320CF6004E48DB /* packersTests */,
+				953D31EC1E320CF6004E48DB /* packersUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		953D290A1E31E7AD004E48DB /* Resources */ = {
+		953D31C91E320CF6004E48DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				953D291D1E31E7AE004E48DB /* LaunchScreen.storyboard in Resources */,
-				953D291A1E31E7AE004E48DB /* Assets.xcassets in Resources */,
-				953D29411E31EA23004E48DB /* Cartfile in Resources */,
-				953D2DF11E31F5BE004E48DB /* Cartfile.resolved in Resources */,
-				953D29151E31E7AD004E48DB /* Main.storyboard in Resources */,
+				953D31DC1E320CF6004E48DB /* LaunchScreen.storyboard in Resources */,
+				953D31D91E320CF6004E48DB /* Assets.xcassets in Resources */,
+				953D32001E320D51004E48DB /* Podfile in Resources */,
+				953D31D41E320CF6004E48DB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		953D29211E31E7B1004E48DB /* Resources */ = {
+		953D31E01E320CF6004E48DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		953D292C1E31E7B1004E48DB /* Resources */ = {
+		953D31EB1E320CF6004E48DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -314,83 +264,61 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXShellScriptBuildPhase section */
-		953D31B31E31FC7E004E48DB /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/iOS/Alamofire.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/CocoaLumberjack.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/CocoaLumberjackSwift.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/DrawerController.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/MBProgressHUD.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/SwiftyJSON.framework",
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "/usr/local/bin/carthage copy-frameworks";
-		};
-/* End PBXShellScriptBuildPhase section */
-
 /* Begin PBXSourcesBuildPhase section */
-		953D29081E31E7AD004E48DB /* Sources */ = {
+		953D31C71E320CF6004E48DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				953D29121E31E7AD004E48DB /* ViewController.swift in Sources */,
-				953D29101E31E7AD004E48DB /* AppDelegate.swift in Sources */,
-				953D29181E31E7AD004E48DB /* packers.xcdatamodeld in Sources */,
+				953D31D11E320CF6004E48DB /* ViewController.swift in Sources */,
+				953D31CF1E320CF6004E48DB /* AppDelegate.swift in Sources */,
+				953D31D71E320CF6004E48DB /* packers.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		953D291F1E31E7B1004E48DB /* Sources */ = {
+		953D31DE1E320CF6004E48DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				953D29281E31E7B1004E48DB /* packersTests.swift in Sources */,
+				953D31E71E320CF6004E48DB /* packersTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		953D292A1E31E7B1004E48DB /* Sources */ = {
+		953D31E91E320CF6004E48DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				953D29331E31E7B1004E48DB /* packersUITests.swift in Sources */,
+				953D31F21E320CF6004E48DB /* packersUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		953D29251E31E7B1004E48DB /* PBXTargetDependency */ = {
+		953D31E41E320CF6004E48DB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 953D290B1E31E7AD004E48DB /* packers */;
-			targetProxy = 953D29241E31E7B1004E48DB /* PBXContainerItemProxy */;
+			target = 953D31CA1E320CF6004E48DB /* packers */;
+			targetProxy = 953D31E31E320CF6004E48DB /* PBXContainerItemProxy */;
 		};
-		953D29301E31E7B1004E48DB /* PBXTargetDependency */ = {
+		953D31EF1E320CF6004E48DB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 953D290B1E31E7AD004E48DB /* packers */;
-			targetProxy = 953D292F1E31E7B1004E48DB /* PBXContainerItemProxy */;
+			target = 953D31CA1E320CF6004E48DB /* packers */;
+			targetProxy = 953D31EE1E320CF6004E48DB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		953D29131E31E7AD004E48DB /* Main.storyboard */ = {
+		953D31D21E320CF6004E48DB /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				953D29141E31E7AD004E48DB /* Base */,
+				953D31D31E320CF6004E48DB /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		953D291B1E31E7AE004E48DB /* LaunchScreen.storyboard */ = {
+		953D31DA1E320CF6004E48DB /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				953D291C1E31E7AE004E48DB /* Base */,
+				953D31DB1E320CF6004E48DB /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -398,7 +326,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		953D29351E31E7B1004E48DB /* Debug */ = {
+		953D31F41E320CF6004E48DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -447,7 +375,7 @@
 			};
 			name = Debug;
 		};
-		953D29361E31E7B1004E48DB /* Release */ = {
+		953D31F51E320CF6004E48DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -489,35 +417,11 @@
 			};
 			name = Release;
 		};
-		953D29381E31E7B1004E48DB /* Debug */ = {
+		953D31F71E320CF6004E48DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = NW33Q88LU3;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/packers/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/Alamofire/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/Alamofire/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/Alamofire/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/Alamofire/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/CocoaLumberjack/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/CocoaLumberjack/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/CocoaLumberjack/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/CocoaLumberjack/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/DrawerController/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/DrawerController/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/DrawerController/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/DrawerController/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/MBProgressHUD/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/MBProgressHUD/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/MBProgressHUD/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/MBProgressHUD/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
 				INFOPLIST_FILE = packers/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cirrena.packers;
@@ -526,35 +430,11 @@
 			};
 			name = Debug;
 		};
-		953D29391E31E7B1004E48DB /* Release */ = {
+		953D31F81E320CF6004E48DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = NW33Q88LU3;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/packers/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/Alamofire/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/Alamofire/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/Alamofire/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/Alamofire/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/CocoaLumberjack/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/CocoaLumberjack/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/CocoaLumberjack/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/CocoaLumberjack/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/DrawerController/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/DrawerController/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/DrawerController/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/DrawerController/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/MBProgressHUD/Carthage/Build/iOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/MBProgressHUD/Carthage/Build/Mac",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/MBProgressHUD/Carthage/Build/tvOS",
-					"$(PROJECT_DIR)/packers/Carthage/Checkouts/MBProgressHUD/Carthage/Build/watchOS",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
 				INFOPLIST_FILE = packers/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cirrena.packers;
@@ -563,7 +443,7 @@
 			};
 			name = Release;
 		};
-		953D293B1E31E7B1004E48DB /* Debug */ = {
+		953D31FA1E320CF6004E48DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -578,7 +458,7 @@
 			};
 			name = Debug;
 		};
-		953D293C1E31E7B1004E48DB /* Release */ = {
+		953D31FB1E320CF6004E48DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -593,7 +473,7 @@
 			};
 			name = Release;
 		};
-		953D293E1E31E7B1004E48DB /* Debug */ = {
+		953D31FD1E320CF6004E48DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -607,7 +487,7 @@
 			};
 			name = Debug;
 		};
-		953D293F1E31E7B1004E48DB /* Release */ = {
+		953D31FE1E320CF6004E48DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -624,53 +504,53 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		953D29071E31E7AC004E48DB /* Build configuration list for PBXProject "packers" */ = {
+		953D31C61E320CF6004E48DB /* Build configuration list for PBXProject "packers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				953D29351E31E7B1004E48DB /* Debug */,
-				953D29361E31E7B1004E48DB /* Release */,
+				953D31F41E320CF6004E48DB /* Debug */,
+				953D31F51E320CF6004E48DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		953D29371E31E7B1004E48DB /* Build configuration list for PBXNativeTarget "packers" */ = {
+		953D31F61E320CF6004E48DB /* Build configuration list for PBXNativeTarget "packers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				953D29381E31E7B1004E48DB /* Debug */,
-				953D29391E31E7B1004E48DB /* Release */,
+				953D31F71E320CF6004E48DB /* Debug */,
+				953D31F81E320CF6004E48DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		953D293A1E31E7B1004E48DB /* Build configuration list for PBXNativeTarget "packersTests" */ = {
+		953D31F91E320CF6004E48DB /* Build configuration list for PBXNativeTarget "packersTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				953D293B1E31E7B1004E48DB /* Debug */,
-				953D293C1E31E7B1004E48DB /* Release */,
+				953D31FA1E320CF6004E48DB /* Debug */,
+				953D31FB1E320CF6004E48DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		953D293D1E31E7B1004E48DB /* Build configuration list for PBXNativeTarget "packersUITests" */ = {
+		953D31FC1E320CF6004E48DB /* Build configuration list for PBXNativeTarget "packersUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				953D293E1E31E7B1004E48DB /* Debug */,
-				953D293F1E31E7B1004E48DB /* Release */,
+				953D31FD1E320CF6004E48DB /* Debug */,
+				953D31FE1E320CF6004E48DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		953D29161E31E7AD004E48DB /* packers.xcdatamodeld */ = {
+		953D31D51E320CF6004E48DB /* packers.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				953D29171E31E7AD004E48DB /* packers.xcdatamodel */,
+				953D31D61E320CF6004E48DB /* packers.xcdatamodel */,
 			);
-			currentVersion = 953D29171E31E7AD004E48DB /* packers.xcdatamodel */;
+			currentVersion = 953D31D61E320CF6004E48DB /* packers.xcdatamodel */;
 			path = packers.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = 953D29041E31E7AC004E48DB /* Project object */;
+	rootObject = 953D31C31E320CF6004E48DB /* Project object */;
 }
